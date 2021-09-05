@@ -18,7 +18,7 @@
 
 ### **Part 1** Getting Started, Considerations, Accessing the OS Menu
 
-[![Arcade1Up PCB Modding #1: Accessing OS Menu](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=TldfdO_AGUI)
+[![Arcade1Up PCB Modding #1: Accessing OS Menu](https://img.youtube.com/vi/TldfdO_AGUI/0.jpg)](https://www.youtube.com/watch?v=TldfdO_AGUI)
 
 
 **Part 2**: Connecting to a PC, Sideloading Apps, HDMI Upscaling/Capturing
