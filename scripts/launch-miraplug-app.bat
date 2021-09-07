@@ -1,0 +1,1 @@
+adb shell am start -n com.actionsmicro.usbdisplay/com.actionsmicro.usbdisplay.MainActivity
