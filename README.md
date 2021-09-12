@@ -21,6 +21,8 @@
 [![Arcade1Up PCB Modding #1: Accessing OS Menu](https://img.youtube.com/vi/TldfdO_AGUI/0.jpg)](https://www.youtube.com/watch?v=TldfdO_AGUI)
 
 
-**Part 2**: Connecting to a PC, Sideloading Apps, HDMI Upscaling/Capturing
+**Part 2**: Connecting to a PC, Sideloading Apps, Micro USB to HDMI @ 1080p/60
 
--- WIP --
+[![Arcade1Up PCB Modding #2: Connecting to PC, Sideloading Apps, HDMI Out](./doc/img/a1up-software-mods-2.png)](https://www.youtube.com/c/TheCodeAlwaysWins)
+
+[WIP/Coming This Week]
