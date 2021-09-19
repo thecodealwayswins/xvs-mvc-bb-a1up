@@ -23,6 +23,4 @@
 
 **Part 2**: Connecting to a PC, Sideloading Apps, Micro USB to HDMI @ 1080p/60
 
-[![Arcade1Up PCB Modding #2: Connecting to PC, Sideloading Apps, HDMI Out](./doc/img/a1up-software-mods-2.png)](https://www.youtube.com/c/TheCodeAlwaysWins)
-
-[WIP/Coming This Week]
+[![Arcade1Up PCB Modding #2: Connecting to PC, Sideloading Apps, HDMI Out](./doc/img/a1up-software-mods-2.png)](https://youtu.be/I9OJyUnSFI)
