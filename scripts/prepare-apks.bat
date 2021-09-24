@@ -1,1 +1,0 @@
-cd ..\ && echo F|xcopy ".\apks\miraplug.apk" "C:\apks\miraplug.apk"
