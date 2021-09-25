@@ -28,4 +28,4 @@
 ### **Part 2.5**: Drag n Drop App Installation + More
 *(Title/Script is not Final)*
 
-[![Arcade1Up PCB Modding #2: Connecting to PC, Sideloading Apps, HDMI Out](./doc/img/a1up-software-mods-2-5.png)]
+![Arcade1Up PCB Modding #2: Connecting to PC, Sideloading Apps, HDMI Out](./doc/img/a1up-software-mods-2-5.png)
