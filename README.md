@@ -5,7 +5,7 @@
 
 # X-Men vs SF / Marvel vs Capcom / Big Blue / Yoga / Shinkuu
 
-## Requirements for XVS Software Modding 1/2
+## Requirements for XVS/MVC/BB Software Modding 1 & 2
 
 ### Google USB Driver
 - [Visit Download Page](https://developer.android.com/studio/run/win-usb)
@@ -35,9 +35,10 @@
 
 Note: installing the above in Xmen v SF/MVC/BB will remove the need for a 5-second wait (not covered in vids) on your PC. But beyond that no need for XVS/MVC input drivers since these come with the cab thanks to Arcade1Up working with myself and the community.
 
-
 ### [**Shinkuu/Yoga Final Burn Delta Drivers**: Arcade 1Up INPUT LAG FIXed (Big Blue, MVC, MVC2)](https://youtu.be/D8wf_7tr9pU)
 
-[![Download here](./doc/img/shinkuu-fbd-drivers.png)](https://youtu.be/D8wf_7tr9pU)
+[![Check out tutorial](./doc/img/shinkuu-fbd-drivers.png)](https://youtu.be/D8wf_7tr9pU)
+
+[Download Latest Driver](https://github.com/thecodealwayswins/xvs-mvc-bb-a1up/raw/main/drivers/tcaw-fbd-shinkuu-yoga-v1.0.1a.zip)
 
 *Note: installing the above in Xmen v SF/MVC/BB will remove the need for a 5-second wait (not covered in vids) on your PC. But beyond that no need for XVS/MVC input drivers since these come with the cab thanks to Arcade1Up working with myself and the community.*
